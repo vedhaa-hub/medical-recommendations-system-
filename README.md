@@ -11,8 +11,6 @@ This project is a machine learning-based web application that recommends appropr
 - Frontend built with HTML/CSS/JavaScript (or React)
 - Modular structure for scalability
 
-## Folder Structure
-
 
 ## How It Works
 
