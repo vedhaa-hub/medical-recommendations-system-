@@ -21,10 +21,3 @@ This project is a machine learning-based web application that recommends appropr
 3. The backend uses a trained ML model to predict the diagnosis and recommend a medicine.
 4. The result is sent back to the frontend and displayed to the user.
 
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/personalized_med_recommender.git
-   cd personalized_med_recommender
